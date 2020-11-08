@@ -1,1 +1,3 @@
 # TypingSpeedTest
+
+![](test.PNG)
